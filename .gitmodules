@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/gklorfine/gklorfine.r-universe.dev
 	branch = HEAD
+[submodule "ggfourfold"]
+	path = ggfourfold
+	url = https://github.com/gklorfine/ggfourfold
 [submodule "ggmosaic2"]
 	path = ggmosaic2
 	url = https://github.com/friendly/ggmosaic2
